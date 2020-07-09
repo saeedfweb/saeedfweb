@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Saeed and
-The most important thing we like is SharePoint and of course WordPress
+The most important thing I like is SharePoint and of course WordPress
 GitHub has also become one of my references so that I can do something for these two dignitaries.
